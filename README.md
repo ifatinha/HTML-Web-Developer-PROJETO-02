@@ -14,7 +14,7 @@ Além de outros recursos falados nas aulas!
 2. Este site deve conter o seguinte menu de navegação:
     - Página Principal
     - Sobre a clínica
-    - Horário de Atendimento
+    - Contato
     - Contato
 3. Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
 
@@ -39,7 +39,7 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 2. Em **Content** um texto falando sobre a clínica.
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-### Horário de Atendimento
+### Contato
 1. Deve ter uma imagem diferente no **Header**.
 2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
 
